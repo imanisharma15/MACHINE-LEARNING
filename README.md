@@ -69,5 +69,5 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 ## Author
 
-Kavya Mehndiratta  
+Anisha Sharma  
 B.Tech CSE
